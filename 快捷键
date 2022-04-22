@@ -1,0 +1,15 @@
+# 选中代码部分：shift + 上下箭头
+# 调整某行代码上下位置，alt + 上下箭头
+# 跳转代码段的开始和结尾,ctrl+[ 和]
+# 格式化代......码：ctrl+alt+L,ctrl+i
+# 撤销和前进：ctrl+Z 和ctrl+y
+# 回滚本地的代码：空白区右键--》local history
+# 快速插入新行，shift+enter，ctrl+enter
+# 跳转开头,ctrl+home,跳转结尾：ctrl+end
+# 跳转项目中对应py 文件 ，ctrl+shift+ r
+# 跳转指定行,ctrl+L
+# 全局查.找变量：ctrl+h
+# shift 两次查看资源文件
+# ALT+SHIFT +Z  ,在代码周围补全逻辑
+# 运行快捷键：shift +F10
+# 修改py文件名字 alt+shift +r
